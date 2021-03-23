@@ -30,7 +30,6 @@ body {
     display: inline-block;
     padding: 1em;
     margin-bottom: 2em;
-    display: flex;
 }
 .sub-content1 {
     height: 12em;
